@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "759020047323",
+    "project_id": "bp-neptune---ga4",
+    "storage_bucket": "bp-neptune---ga4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759020047323:android:343949514018f05192b5fe",
+        "android_client_info": {
+          "package_name": "com2.blackplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759020047323-ip8alqpqeeu6r3sdeepetvm760ctl0nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRE_8Q07RYrBVdqq6jGqM9ukVKp57ZT4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759020047323-ip8alqpqeeu6r3sdeepetvm760ctl0nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759020047323-ajcsrfduosphn1pkmcllcd6ngkovat53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.interactiveone.blackplanet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
